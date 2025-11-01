@@ -1,4 +1,4 @@
-package com.levelupgamer.carro_service;
+package com.levelup.carrito;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
